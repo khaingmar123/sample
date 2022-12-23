@@ -75,7 +75,15 @@
         "day": "2022-12-22",
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/liverpool.png",
         "awayTname": "Liverpool",
-        "playlink": [
+        "playlink": [{
+         "quality": "",
+ "link": ""},
+ {
+         "quality": "",
+ "link": ""},
+ {
+         "quality": "",
+ "link": ""}
 ]
      
     }
